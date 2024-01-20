@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chaos_02, also known under the name of Markus Noack!
-- 👀 I’m interested in cars and anything computer related, really.
-- 🌱 I’m currently learning bash scripting, c++ and Arduino port manipulation, aswell as Powershell and everything that's needed to get something done!
+- 👀 I’m interested in cars and anything computer related, really but also science in general.
+- 🌱 I’m currently learning rust, c++ and a little java, aswell as Powershell and everything that's needed to get something done!
 - 💞️ I’m looking to collaborate on projects that need some love but don't get time.
 - 📫 How to reach me:
 	Either here on GitHub via private message or
