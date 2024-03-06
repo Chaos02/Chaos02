@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chaos_02, also known under the name of Markus Noack!
+- 👋 Hi, I’m Chaos_02!
 - 👀 I’m interested in cars and anything computer related, really but also science in general.
 - 🌱 I’m currently learning rust, c++ and a little java, aswell as Powershell and everything that's needed to get something done!
 - 💞️ I’m looking to collaborate on projects that need some love but don't get time.
